@@ -5,8 +5,6 @@
 1. `abs_calc.c`
 2. `gugudan.c`
 3. `samyukgu.c`
-4. `array_sum.c`
-5. `array_minmax.c`
 
 ---
 
@@ -63,6 +61,7 @@ C 라이브러리 함수(`abs()` 불사용)를 사용하지 않고 숫자의 절
 1 2 짝 4 5 짝 7 8 짝 10 11 12 짝 ... 30 31 32 짝 34 35 짝 37 ... 100
 ```
 
+<div style="display: none;">
 ---
 
 ## 4. array_sum.c
@@ -101,3 +100,4 @@ C 라이브러리 함수를 사용하지 않고 위 data 배열의 각 요소에
 max: 9
 min: 1
 ```
+</div>
